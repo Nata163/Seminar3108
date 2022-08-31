@@ -7,8 +7,9 @@ int number1 = int.Parse(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int number2 = int.Parse(Console.ReadLine());
 
+int result = Convert.ToInt32(Math.Pow(number2, 2));
 //проверяем равенство и выводим результат
-if (number2 = number1 * number1)
+if ( result == number1 )
 {
     Console.WriteLine("да");
 }
