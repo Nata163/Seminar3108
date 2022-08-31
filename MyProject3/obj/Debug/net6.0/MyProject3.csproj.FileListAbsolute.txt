@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\bin\Debug\net6.0\MyProject3.exe
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\bin\Debug\net6.0\MyProject3.deps.json
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\bin\Debug\net6.0\MyProject3.runtimeconfig.json
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\bin\Debug\net6.0\MyProject3.dll
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\bin\Debug\net6.0\MyProject3.pdb
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\MyProject3.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\MyProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\MyProject3.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\MyProject3.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\MyProject3.dll
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\refint\MyProject3.dll
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\MyProject3.pdb
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\MyProject3.genruntimeconfig.cache
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\MyProject3\obj\Debug\net6.0\ref\MyProject3.dll
