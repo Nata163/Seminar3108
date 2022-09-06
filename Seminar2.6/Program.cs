@@ -2,7 +2,7 @@
 
 void Div(int number1)
 {
-    if (number1 % 7+ number1 % 23 == 0) Console.WriteLine("да");
+    if (number1 % 7 ==0 & number1 % 23 == 0) Console.WriteLine("да");
     else Console.WriteLine("нет");
 }
 
