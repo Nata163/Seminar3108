@@ -18,4 +18,4 @@ int y2 = Convert.ToInt32(Console.ReadLine());
 double d = 0;
 
 double distanse = GetDistance (x1, y1, x2, y2);
-Console.WriteLine($"Растояние между 2 точками ({x1},{x2}) и ({y1},{y2}) равно {distanse}");
+Console.WriteLine($"Растояние между 2 точками ({x1},{x2}) и ({y1},{y2}) равно {Math.Round(distanse,2)}");
