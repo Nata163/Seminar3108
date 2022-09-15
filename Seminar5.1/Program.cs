@@ -6,7 +6,7 @@ int[] FillArrey()
     int[] array = new int[12];
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random().Next(-9, 9);
+        array[i] = new Random().Next(-9, 10);
     }
     return array;
 }
