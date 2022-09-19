@@ -14,12 +14,15 @@ int[] TakeArray(int[] arr)
     }
     else
     {
-        int[] array = new int[arr.Length / 2 + 1];
-        for (int i = 0; i < array.Length - 1; i++)
+       int[] array = new int[arr.Length / 2 + 1];
+        for (int i = 0; i < array.Length; i++)
         {
-            array[i] = arr[i] * arr[arr.Length - (i + 1)];
+            if (i == array.Length - 1)
+            {
+                array[i] = arr[i];
+            }
+            else array[i] = arr[i] * arr[arr.Length - (i + 1)];
         }
-        //array[array.Length] = arr[arr.Length / 2 + 1];
         return array;
     }
 
