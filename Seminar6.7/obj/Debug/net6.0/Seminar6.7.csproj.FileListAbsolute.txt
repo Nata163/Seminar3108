@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\Seminar6.7.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\Seminar6.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\Seminar6.7.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\Seminar6.7.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\Seminar6.7.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\bin\Debug\net6.0\Seminar6.7.exe
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\bin\Debug\net6.0\Seminar6.7.deps.json
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\bin\Debug\net6.0\Seminar6.7.runtimeconfig.json
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\bin\Debug\net6.0\Seminar6.7.dll
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\bin\Debug\net6.0\Seminar6.7.pdb
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\Seminar6.7.dll
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\refint\Seminar6.7.dll
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\Seminar6.7.pdb
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\Seminar6.7.genruntimeconfig.cache
+C:\Users\Zver\Desktop\Обучение\Seminar3108\Seminar\Seminar6.7\obj\Debug\net6.0\ref\Seminar6.7.dll
